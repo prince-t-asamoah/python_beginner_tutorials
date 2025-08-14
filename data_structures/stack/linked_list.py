@@ -1,8 +1,5 @@
-class Node:
-    def __init__(self, value) -> None:
-        self.value = value
-        self.next = None  # type: Node | None
-        
+from data_structures.mixins import Node
+
 class Stack:
     def __init__(self) -> None:
         self.head = Node('head')
