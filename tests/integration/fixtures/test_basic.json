@@ -1,0 +1,74 @@
+{
+  "customers": {
+    "CUST001": {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "loyalty_points": 150,
+      "address": "123 Main St, New York, NY"
+    },
+    "CUST002": {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "loyalty_points": 200,
+      "address": "456 Oak Ave, Los Angeles, CA"
+    },
+    "CUST003": {
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "age": 40,
+      "loyalty_points": 300,
+      "address": "789 Pine Rd, Chicago, IL"
+    },
+    "CUST004": {
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "age": 22,
+      "loyalty_points": 180,
+      "address": "321 Maple St, Houston, TX"
+    },
+    "CUST005": {
+      "name": "Chris Johnson",
+      "email": "chris.johnson@example.com",
+      "age": 35,
+      "loyalty_points": 250,
+      "address": "654 Elm St, Phoenix, AZ"
+    },
+    "CUST006": {
+      "name": "Patricia Wilson",
+      "email": "patricia.wilson@example.com",
+      "age": 28,
+      "loyalty_points": 170,
+      "address": "987 Birch Rd, Philadelphia, PA"
+    },
+    "CUST007": {
+      "name": "Robert Martinez",
+      "email": "robert.martinez@example.com",
+      "age": 45,
+      "loyalty_points": 320,
+      "address": "246 Cedar Ave, San Antonio, TX"
+    },
+    "CUST008": {
+      "name": "Linda Taylor",
+      "email": "linda.taylor@example.com",
+      "age": 33,
+      "loyalty_points": 210,
+      "address": "135 Walnut St, San Diego, CA"
+    },
+    "CUST009": {
+      "name": "David Anderson",
+      "email": "david.anderson@example.com",
+      "age": 29,
+      "loyalty_points": 190,
+      "address": "864 Aspen Rd, Dallas, TX"
+    },
+    "CUST010": {
+      "name": "Barbara Thomas",
+      "email": "barbara.thomas@example.com",
+      "age": 31,
+      "loyalty_points": 230,
+      "address": "579 Cherry Ln, San Jose, CA"
+    }
+  }
+}

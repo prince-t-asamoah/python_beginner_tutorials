@@ -1,0 +1,5 @@
+;You can ran this command in terminal 'flake8 --ignore E305 --exclude .git,__pycache__ --max-line-length=90[flake8]'
+
+ignore=E305
+exclude=.git, __pycache__
+max-line-length=90
